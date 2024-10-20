@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="hardware" location="/home/parallels/workspace/hardware" platform="/home/parallels/workspace/lab1a/export/lab1a/lab1a.xpfm" platformUID="xilinx:::0.0(custom)" systemProject="hardware_system" sysConfig="lab1a" runtime="C/C++" cpu="standalone_domain" cpuInstance="microblaze_0" os="standalone" mssSignature="9daa89818d9baa5d8e585a9829922333">
+  <configuration name="Debug" id="xilinx.gnu.mb.exe.debug.1139700536" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.mb.exe.release.1884994818" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>
